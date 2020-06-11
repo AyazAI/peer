@@ -1,0 +1,13 @@
+.fa-react{
+color:#00D8FF;
+}
+.fa-bold{
+color: #e56d7c;    
+}
+.fa-css3{
+color:#2163af;
+}
+.fa-react, .fa-bold, .fa-css3{
+font-size: 4em;
+margin: 1rem;
+}

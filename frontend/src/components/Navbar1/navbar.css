@@ -1,0 +1,31 @@
+
+.navbar{
+    padding: 20px;
+    color: black;
+
+}
+.navbar-nav li{
+
+    padding-right: 20px;
+}
+
+.nav-link{
+font-size: 1.1em !important;
+
+}
+.img1{
+height: 60px;
+width: 60x; 
+}
+.main-nav-active{
+    color:yellow;
+    font-size: 1.1em !important;
+}
+.main-nav{
+    color:white;
+    font-size: 1.1em !important;  
+}
+.main-nav:hover{
+    color:black;
+    text-decoration: none;
+}

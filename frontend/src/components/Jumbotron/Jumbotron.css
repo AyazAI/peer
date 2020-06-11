@@ -1,0 +1,12 @@
+.jumbotron{
+padding: 1rem;
+border-radius: 0;
+}
+.padding{
+    padding-bottom: 2rem;
+}
+.welcome{
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
