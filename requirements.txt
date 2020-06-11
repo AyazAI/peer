@@ -17,6 +17,7 @@ daphne==2.3.0
 defusedxml==0.6.0
 Django==2.2.4
 django-cors-headers==3.1.0
+django-rest-knox==4.1.0
 djangorestframework==3.10.2
 djangorestframework-jwt==1.11.0
 djangorestframework-simplejwt==4.3.0
@@ -25,6 +26,7 @@ hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
 msgpack==0.6.2
+mysqlclient==1.4.6
 numpy==1.17.0
 oauthlib==3.0.2
 pandas==0.25.0
